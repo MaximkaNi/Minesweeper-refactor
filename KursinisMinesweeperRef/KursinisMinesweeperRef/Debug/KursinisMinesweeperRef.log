@@ -1,0 +1,7 @@
+﻿  Board.cpp
+  Main.cpp
+  MinesweeperPlacer.cpp
+C:\Users\white\Desktop\Minesweeper\KursinisMinesweeperRef\KursinisMinesweeperRef\MinesweeperPlacer.cpp(6,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+  Generating Code...
+  KursinisMinesweeperRef.vcxproj -> C:\Users\white\Desktop\Minesweeper\KursinisMinesweeperRef\Debug\KursinisMinesweeperRef.exe
